@@ -1,0 +1,6 @@
+D:\SEM2 Basic network programming\TCPChat\TCPChat\obj\Debug\net5.0-windows7.0\TCPChat.Form1.resources
+D:\SEM2 Basic network programming\TCPChat\TCPChat\obj\Debug\net5.0-windows7.0\TCPChat.csproj.GenerateResource.cache
+D:\SEM2 Basic network programming\TCPChat\TCPChat\obj\Debug\net5.0-windows7.0\TCPChat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SEM2 Basic network programming\TCPChat\TCPChat\obj\Debug\net5.0-windows7.0\TCPChat.AssemblyInfoInputs.cache
+D:\SEM2 Basic network programming\TCPChat\TCPChat\obj\Debug\net5.0-windows7.0\TCPChat.AssemblyInfo.cs
+D:\SEM2 Basic network programming\TCPChat\TCPChat\obj\Debug\net5.0-windows7.0\TCPChat.csproj.CoreCompileInputs.cache

@@ -1,0 +1,118 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "SuperSimpleTcp/3.0.14": {
+        "type": "package",
+        "compile": {
+          "lib/net8.0/SuperSimpleTcp.dll": {}
+        },
+        "runtime": {
+          "lib/net8.0/SuperSimpleTcp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SuperSimpleTcp/3.0.14": {
+      "sha512": "ITlEv4oNbTW0ViwNOFTH9Xk0YMPtP4VrExoXxf4dzH6ajoW9D2HNQZWXBKgsmEhoO3TGgXJSLM/d94NN40Ejtw==",
+      "type": "package",
+      "path": "supersimpletcp/3.0.14",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "icon.png",
+        "lib/net461/SimpleTcp.xml",
+        "lib/net461/SuperSimpleTcp.dll",
+        "lib/net462/SuperSimpleTcp.dll",
+        "lib/net48/SuperSimpleTcp.dll",
+        "lib/net6.0/SimpleTcp.xml",
+        "lib/net6.0/SuperSimpleTcp.dll",
+        "lib/net7.0/SuperSimpleTcp.dll",
+        "lib/net8.0/SuperSimpleTcp.dll",
+        "lib/netstandard2.1/SimpleTcp.xml",
+        "lib/netstandard2.1/SuperSimpleTcp.dll",
+        "supersimpletcp.3.0.14.nupkg.sha512",
+        "supersimpletcp.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "SuperSimpleTcp >= 3.0.14"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\21522\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\SEM2 Basic network programming\\TCPChatUpgrade__SSL_certificate\\TCPChat\\TCPChat.csproj",
+      "projectName": "TCPChat",
+      "projectPath": "D:\\SEM2 Basic network programming\\TCPChatUpgrade__SSL_certificate\\TCPChat\\TCPChat.csproj",
+      "packagesPath": "C:\\Users\\21522\\.nuget\\packages\\",
+      "outputPath": "D:\\SEM2 Basic network programming\\TCPChatUpgrade__SSL_certificate\\TCPChat\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\21522\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows7.0",
+        "dependencies": {
+          "SuperSimpleTcp": {
+            "target": "Package",
+            "version": "[3.0.14, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
